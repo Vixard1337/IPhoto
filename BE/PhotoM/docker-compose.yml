@@ -1,0 +1,6 @@
+﻿services:
+  photom:
+    image: photom
+    build:
+      context: .
+      dockerfile: PhotoM/Dockerfile

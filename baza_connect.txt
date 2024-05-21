@@ -1,0 +1,19 @@
+
+wsl --shutdown wyłączenie vmem dockera
+[name]
+mydb@localhost
+
+[url]
+jdbc:mysql://localhost:3306/mydb
+
+[host]
+localhost
+
+[database]
+mydb
+
+[user]
+user
+
+[password]
+password
